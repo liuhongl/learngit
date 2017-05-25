@@ -8,3 +8,4 @@ test no-ff
 test stash
 test stash too!
 work on branch dev 
+add something in the other branch
